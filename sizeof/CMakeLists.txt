@@ -3,4 +3,4 @@ project(sizeof)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(sizeof main.cpp)
+add_executable(sizeof main.cpp)  
