@@ -1,0 +1,3 @@
+C:/Users/zgy19/Desktop/C++/promotion/cmake-build-debug/CMakeFiles/promotion.dir
+C:/Users/zgy19/Desktop/C++/promotion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zgy19/Desktop/C++/promotion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
