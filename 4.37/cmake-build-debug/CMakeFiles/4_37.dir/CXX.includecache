@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zgy19/Desktop/C++/4.37/main.cpp
+iostream
+-
+typeinfo
+C:/Users/zgy19/Desktop/C++/4.37/typeinfo
+
